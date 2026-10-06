@@ -1,0 +1,36 @@
+# Runtime / private material — never commit
+.env
+.env.*
+!.env.example
+auth.json
+credentials.json
+cookies.json
+*.db
+*.db-wal
+*.db-shm
+*.sqlite*
+state/
+logs/
+backups/
+sessions/
+memories/
+cron/output/
+
+# Generated / cache material
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.DS_Store
+*.log
+*.pid
+*.lock
+
+# Local migration evidence (contains machine paths and hashes of private files)
+*-inventory.json
+*-verification.json
+*-session-plan.json
+*-receipt.json
+*-receipt.md
+!templates/*-receipt.md

@@ -1,0 +1,91 @@
+{
+  "file_set_sha256": "628798d26a578530f5a6b4f1c15319fd97385fa263962b9caed80b10c56ff86a",
+  "files": [
+    {
+      "relative_path": ".github/workflows/ci.yml",
+      "sha256": "8c148f0d4b0a987ed5172ae6f5319dca6f3f494e93eaa63bab7e6c770a597cf9",
+      "size": 808
+    },
+    {
+      "relative_path": ".gitignore",
+      "sha256": "5f118a0bab96c1ede007cb06acd0ecffcb94e8a1503506ccb4d63ca084968015",
+      "size": 513
+    },
+    {
+      "relative_path": "LICENSE",
+      "sha256": "19e74bd019dd57d411556974922b70ee2d1de772a23c162eaa37e298069291a9",
+      "size": 1068
+    },
+    {
+      "relative_path": "README.md",
+      "sha256": "2d0a2f92f3a30be15768598d12aa7223713a9e04de673117a22641f225beee82",
+      "size": 5690
+    },
+    {
+      "relative_path": "SKILL.md",
+      "sha256": "4967459cf065867dfd3e10c1751db8d8ecc2fd0598b8c36c8502ec98660b3769",
+      "size": 21349
+    },
+    {
+      "relative_path": "references/migration-mode-matrix.md",
+      "sha256": "6ddb30110d68e26d36f9d8233befcffbbd33e6a1fa3d78abec20dbc5aa14a5ab",
+      "size": 4233
+    },
+    {
+      "relative_path": "scripts/profile_inventory.py",
+      "sha256": "1bb26b29db5a441880332c7bafe49728b82b9eeb184a4bff384c3f3024c9ccdd",
+      "size": 17464
+    },
+    {
+      "relative_path": "scripts/session_delta_plan.py",
+      "sha256": "cdfb391d4da6bfbbdab979c10816ea45b79e460ac81dcf71930da4b26e5c36a4",
+      "size": 18315
+    },
+    {
+      "relative_path": "scripts/verify_manifest.py",
+      "sha256": "b2e9140c4eb546cc990b34a83888c88e0d5e4df99311716d7c11daa2d3f5bcb3",
+      "size": 8972
+    },
+    {
+      "relative_path": "scripts/verify_source_manifest.py",
+      "sha256": "8d82aeb69ac18bcec322678ac2cdb530065d90f1116cf1e5e977373392736032",
+      "size": 2292
+    },
+    {
+      "relative_path": "scripts/verify_tools.py",
+      "sha256": "9a5e805e8a9c80a70a2ab37acea62ef408b33eb6b3b49675b921357c3526367f",
+      "size": 20111
+    },
+    {
+      "relative_path": "templates/backup-receipt.md",
+      "sha256": "02590418199776213296f2ff38aace0c17286d4652edb0e66fdfbfed81109b20",
+      "size": 1120
+    },
+    {
+      "relative_path": "templates/completion-receipt.md",
+      "sha256": "ad3655bf028f8baecba76ceff167e4e2ee6e148476c6541159222a86e7b7a79a",
+      "size": 2475
+    },
+    {
+      "relative_path": "templates/cutover-runbook.md",
+      "sha256": "9ba052757cee9a39a783928ca7d657c404695f9dad2387f7d07c175d611605e3",
+      "size": 2111
+    },
+    {
+      "relative_path": "templates/migration-contract.md",
+      "sha256": "965cda89eb2646812a0a0c233f3703ee58a669fff74121888a11970d77547ccf",
+      "size": 3112
+    },
+    {
+      "relative_path": "templates/rollback-receipt.md",
+      "sha256": "dfcc04a38e91b808eee3361e3c0354f3f750ad234dd065f63849081a5e7dba5f",
+      "size": 853
+    },
+    {
+      "relative_path": "tests/test_profile_migration.py",
+      "sha256": "b8882b1fdf377f37a8ce97cd1299978bf2aeb711496e61f898b6c20f8270e390",
+      "size": 8663
+    }
+  ],
+  "schema": "profile-migration-source-manifest/v1"
+}
